@@ -1,5 +1,10 @@
 print("Hello world")
 
+print ("this is main")
+
+
+
+
 import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
@@ -77,3 +82,4 @@ for items in os.scandir(path):
 # min_val, max_val, min_loc, max_loc = cv.minMaxLoc(result)
 
 # print(max_loc)
+
